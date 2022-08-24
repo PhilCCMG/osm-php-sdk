@@ -1,0 +1,17 @@
+{
+  "name": "philccmg/osm-php-sdk",
+  "description": "PHP SDK for Online Scout Manager",
+  "type": "library",
+  "require": {
+    "php": ">=7.2",
+    "guzzlehttp/guzzle": "^7.0"
+  },
+  "license": "mit",
+  "authors": [
+    {
+      "name": "Phil Gibson",
+      "email": "phil.gibson@newcastlescouts.org.uk"
+    }
+  ],
+  "minimum-stability": "dev"
+}
